@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">MyApplication</string>
-    <string name="hello_world">Hellohhhhh wohhhhhhrld!</string>
+    <string name="hello_world">Hello android!</string>
     <string name="action_settings">Settings</string>
 
 </resources>
